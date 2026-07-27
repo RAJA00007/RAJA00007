@@ -15,8 +15,8 @@
   <p align="center">
     <a href="https://github.com/RAJA00007?tab=followers"><img src="https://img.shields.io/github/followers/RAJA00007?style=for-the-badge&color=00F0FF&labelColor=0B0F19&logo=github" alt="GitHub Followers"/></a>
     <a href="https://github.com/RAJA00007"><img src="https://img.shields.io/github/stars/RAJA00007?style=for-the-badge&color=7B2CBF&labelColor=0B0F19&logo=republicofgamers" alt="GitHub Stars"/></a>
-    <a href="https://profile-counter.glitch.me/RAJA00007/count.svg"><img src="https://img.shields.io/badge/PROFILE_VIEWS-10K%2B-00F0FF?style=for-the-badge&labelColor=0B0F19&logo=eye" alt="Profile Views"/></a>
-    <a href="mailto:contact@rajaraut.ai"><img src="https://img.shields.io/badge/EMAIL-HIRE_ME-38BDF8?style=for-the-badge&labelColor=0B0F19&logo=gmail" alt="Email Me"/></a>
+    <a href="https://komarev.com/ghpvc/?username=RAJA00007&style=flat-square&color=00F0FF"><img src="https://img.shields.io/badge/PROFILE_VIEWS-10K%2B-00F0FF?style=for-the-badge&labelColor=0B0F19&logo=eye" alt="Profile Views"/></a>
+    <a href="mailto:rajaraut00007@gmail.com"><img src="https://img.shields.io/badge/EMAIL-HIRE_ME-38BDF8?style=for-the-badge&labelColor=0B0F19&logo=gmail" alt="Email Me"/></a>
   </p>
 
 </div>
@@ -165,24 +165,28 @@ I am a **Senior AI Engineer & Systems Developer** specializing in building **Aut
 
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RAJA00007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F0FF&text_color=F0F6FC&icon_color=7B2CBF" alt="Raja's GitHub Stats" width="410" />
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJA00007&theme=github_dark" width="410" />
       </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAJA00007&theme=tokyonight&hide_border=true&background=0B0F19&ring=00F0FF&fire=7B2CBF&currStreakLabel=00F0FF" alt="Raja's Streak Stats" width="410" />
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RAJA00007&theme=github_dark" width="410" />
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJA00007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F0FF&text_color=F0F6FC" alt="Top Languages" width="410" />
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJA00007&theme=github_dark" width="410" />
       </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJA00007&theme=react-dark&bg_color=0B0F19&color=00F0FF&line=7B2CBF&point=FFFFFF&hide_border=true" alt="Activity Graph" width="410" />
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJA00007&theme=github_dark" width="410" />
       </td>
     </tr>
   </table>
 
   <br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJA00007&theme=react-dark&bg_color=0B0F19&color=00F0FF&line=7B2CBF&point=FFFFFF&hide_border=true" width="830" />
+
+  <br/><br/>
 
   ### 🐍 Contribution Snake Journey
   <picture>
@@ -197,19 +201,44 @@ I am a **Senior AI Engineer & Systems Developer** specializing in building **Aut
 
 # 🔭 Current Focus & Technical Roadmap
 
-```gantt
-roadmap
-    title Technical Roadmap & Mastery Trajectory
-    section Active Specializations
-    Autonomous Agent Systems & LangChain :done, tech1, 2024-01-01, 2025-12-31
-    Multimodal CV & Satellite Imagery   :done, tech2, 2024-06-01, 2025-12-31
-    Full-Stack AI (FastAPI + Next.js)  :done, tech3, 2024-08-01, 2026-06-30
-    section Current Upskilling
-    Distributed Systems & Ray Orchestration :active, next1, 2026-01-01, 2026-10-31
-    vLLM & TensorRT Inference Optimization   :active, next2, 2026-03-01, 2026-12-31
-    section Next Frontier
-    Kubernetes MLOps & Triton Inference      :crit, future1, 2026-08-01, 2027-04-30
-```
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Phase</th>
+      <th align="left">Domain &amp; Technical Focus Area</th>
+      <th align="center">Status</th>
+      <th align="left">Core Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Phase 1 (Mastered)</b></td>
+      <td>Autonomous Agent Systems &amp; RAG Orchestration</td>
+      <td align="center"><code>🟢 Mastered</code></td>
+      <td><code>Python</code> • <code>LangChain</code> • <code>CrewAI</code> • <code>LLMs</code></td>
+    </tr>
+    <tr>
+      <td><b>Phase 2 (Mastered)</b></td>
+      <td>Multimodal Computer Vision &amp; Satellite Geospatial ML</td>
+      <td align="center"><code>🟢 Mastered</code></td>
+      <td><code>PyTorch</code> • <code>OpenCV</code> • <code>Sentinel SAR</code> • <code>GEE</code></td>
+    </tr>
+    <tr>
+      <td><b>Phase 3 (Active)</b></td>
+      <td>Distributed AI &amp; Ray Cluster Orchestration</td>
+      <td align="center"><code>🟡 Active</code></td>
+      <td><code>Ray</code> • <code>vLLM</code> • <code>TensorRT-LLM</code> • <code>CUDA</code></td>
+    </tr>
+    <tr>
+      <td><b>Phase 4 (Next)</b></td>
+      <td>Kubernetes MLOps &amp; Triton Inference Server</td>
+      <td align="center"><code>🔵 Next</code></td>
+      <td><code>Kubeflow</code> • <code>Triton</code> • <code>Docker</code> • <code>K8s</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
 
 - 🎯 **Currently Building**: Advanced multi-agent orchestration frameworks for enterprise compliance and real-time geospatial intelligence.
 - 🔬 **Research Interests**: SAR-to-Optical image translation, edge LLM quantization (GGUF/AWQ), and high-throughput real-time video analytics.
@@ -232,8 +261,8 @@ roadmap
   <a href="https://github.com/RAJA00007">
     <img src="https://img.shields.io/badge/GitHub-RAJA00007-00F0FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-  <a href="mailto:contact@rajaraut.ai">
-    <img src="https://img.shields.io/badge/Email-contact@rajaraut.ai-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:rajaraut00007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rajaraut00007@gmail.com-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-Raja_Kumar_Raut-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
